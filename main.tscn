@@ -1167,45 +1167,81 @@ texture = ExtResource("7_5vw27")
 [node name="TextEdit" type="TextEdit" parent="."]
 offset_left = 76.0
 offset_top = 181.0
-offset_right = 328.0
-offset_bottom = 246.0
-text = "W,A,D or  arrow keys to move,
-space to dash"
+offset_right = 368.0
+offset_bottom = 275.0
+text = " What are we, apart from sparkles
+of conciousness, wandering around
+  the enormous jungle of excistense"
 
 [node name="TextEdit2" type="TextEdit" parent="."]
 offset_left = -1405.0
 offset_top = 542.0
-offset_right = -1240.0
+offset_right = -1229.0
 offset_bottom = 584.0
-text = "Hiii how's it going?"
+text = "Who are you? Really?"
+
+[node name="TextEdit8" type="TextEdit" parent="."]
+offset_left = -2229.0
+offset_top = 441.0
+offset_right = -2053.0
+offset_bottom = 483.0
+text = "How are you? Really?"
 
 [node name="TextEdit3" type="TextEdit" parent="."]
-offset_left = -2882.0
-offset_top = 68.0
-offset_right = -2743.0
-offset_bottom = 110.0
-text = "  You can do it!"
+offset_left = -2947.0
+offset_top = -8.0
+offset_right = -2623.0
+offset_bottom = 88.0
+text = " The mountain of things we never did...
+    the things we were supposed to do
+  How does it feel to stand on top of it?"
+
+[node name="TextEdit9" type="TextEdit" parent="."]
+offset_left = 1161.0
+offset_top = 197.0
+offset_right = 1485.0
+offset_bottom = 241.0
+text = "Why did you choose to wander this way?"
+
+[node name="TextEdit10" type="TextEdit" parent="."]
+offset_left = 2320.0
+offset_top = 172.0
+offset_right = 2486.0
+offset_bottom = 216.0
+text = "Why come up here? "
+
+[node name="TextEdit11" type="TextEdit" parent="."]
+offset_left = 2364.0
+offset_top = 753.0
+offset_right = 2553.0
+offset_bottom = 797.0
+text = "Why come down here? "
 
 [node name="TextEdit4" type="TextEdit" parent="."]
-offset_left = -1976.0
-offset_top = -266.0
+offset_left = -1981.0
+offset_top = -288.0
 offset_right = -1607.0
 offset_bottom = -224.0
-text = "Did you know that potatoes live underground?"
+text = "Did you know that potatoes live underground, 
+but you don't?"
 
 [node name="TextEdit5" type="TextEdit" parent="."]
-offset_left = 3067.0
-offset_top = 369.0
-offset_right = 3278.0
-offset_bottom = 411.0
-text = "Wow you made it here :0"
+offset_left = 3535.0
+offset_top = 388.0
+offset_right = 3797.0
+offset_bottom = 430.0
+text = "Wow! You actually made it here!"
 
 [node name="TextEdit6" type="TextEdit" parent="."]
-offset_left = 4982.0
-offset_top = 289.0
-offset_right = 5297.0
-offset_bottom = 331.0
-text = "This is the end! Very fun game, I know."
+offset_left = 4895.0
+offset_top = 204.0
+offset_right = 5261.0
+offset_bottom = 354.0
+text = "This is the end, if you wish to think that way
+On the other hand... 
+We never know what life as to offer us
+until we seek every corner of the Earth,
+The Jungle"
 
 [node name="TextEdit7" type="TextEdit" parent="."]
 offset_left = 4184.0
